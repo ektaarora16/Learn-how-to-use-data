@@ -11,11 +11,11 @@
 
 - [Types and uses of Data](#types-and-uses-of-data)
 
-- [How to Analyze Data?](how-to-analyze-data)
+- [How to Analyze Data?](how-to-analyze-data) 
 
--[Top Reasons to Become a Data Scientist](top-reasons-to-become-a-data-scientist)
+- [Top Reasons to Become a Data Scientist](top-reasons-to-become-a-data-scientist)
 
-- [Top 5 Jobs in Data](top-5-jobs-in-data)
+- [Top 5 Jobs in Data](top-jobs-in-data)
 
 Since the invention of computers, people have used the term data to refer to computer information, and this information was either transmitted or stored. But that is not the only data definition; there exist other types of data as well. So, what is the data? Data can be texts or numbers written on papers, or it can be bytes and bits inside the memory of electronic devices, or it could be facts that are stored inside a person’s mind. And in this article, we will cover the following topics in detail:
 
