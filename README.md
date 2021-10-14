@@ -8,7 +8,7 @@
 ## Table of Contents
 - [What is Data?](#What is Data?)
 
-- Types and uses of Data
+- [Types and uses of Data]
 
 - How to Analyze Data?
 
