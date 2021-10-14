@@ -6,9 +6,9 @@
 <p align="center">Since the invention of computers, people have used the term data to refer to computer information, and this information was either transmitted or stored. But that is not the only data definition; there exist other types of data as well </p>
 
 ## Table of Contents
- [What is Data?](#What is Data?)
+ []()
  
- [General info](#general-info) 
+ [What is Data?](#What-is-Data?) 
 
 - [Types and uses of Data]
 
