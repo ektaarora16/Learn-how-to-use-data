@@ -9,13 +9,13 @@
 
  - [What is Data?](#what-is-data) 
 
-- [Types and uses of Data]
+- [Types and uses of Data](#types-and-uses-of-data)
 
-- How to Analyze Data?
+- [How to Analyze Data?](how-to-analyze-data)
 
-- Top Reasons to Become a Data Scientist
+-[Top Reasons to Become a Data Scientist](top-reasons-to-become-a-data-scientist)
 
-- Top 5 Jobs in Data
+- [Top 5 Jobs in Data](top-5-jobs-in-data)
 
 Since the invention of computers, people have used the term data to refer to computer information, and this information was either transmitted or stored. But that is not the only data definition; there exist other types of data as well. So, what is the data? Data can be texts or numbers written on papers, or it can be bytes and bits inside the memory of electronic devices, or it could be facts that are stored inside a person’s mind. And in this article, we will cover the following topics in detail:
 
@@ -67,7 +67,7 @@ For quantitative statistical research, the utilization of descriptive analysis r
 
 Consequently, enterprises ready to make due in the hypercompetitive world must have a remarkable capacity to investigate complex research information, infer noteworthy bits of knowledge, and adjust to new market needs.
 
-## Top Reasons to Become a Data Scientist: Jobs in Data
+## Top Reasons to Become a Data Scientist
 Mentioned below are the uses of Data that explain how becoming a data scientist is the right choice to make. 
 
 1. Data Science is used to detect Risks and Frauds. Initially, Data science was used in the Finance sector and the same continues to be the most significant application of Data Science.
