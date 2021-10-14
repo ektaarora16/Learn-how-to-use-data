@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> Learn-how-to-use-data </h1>
-<p align="center">Since the invention of computers, [people](#What-is-Data?) have used the term data to refer to computer information, and this information was either transmitted or stored. But that is not the only data definition; there exist other types of data as well </p>
+<p align="center">Since the invention of computers, [people]() have used the term data to refer to computer information, and this information was either transmitted or stored. But that is not the only data definition; there exist other types of data as well </p>
 
 ## Table of Contents
  [What is Data?](#What is Data?)
