@@ -7,7 +7,7 @@
 
 ## Table of Contents
 
- - [What is Data?](#what-is-data?) 
+ - [What is Data?](#what-is-data) 
 
 - [Types and uses of Data]
 
