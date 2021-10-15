@@ -101,3 +101,9 @@ Nowadays, more and more companies are starting to rely on data managers to extra
 
 Therefore, the scope in the field of data is immense. These were just five that we listed; there are many others like the Data Engineer certification course, Data security administrator. This shows that a career in any field of Data Science and Business Analytics is a promising one.
 
+
+## Contributors :
+1. Aaquib Ali
+2. Ekta Arora
+3. Shrejal Singh
+4. Ruthvik
